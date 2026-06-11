@@ -4,7 +4,7 @@ A simple Python tool that asks the user for a password length and generates a ra
 
 ## Key Skills
 
-* Importing Modules (`random`, `string`)
+* Importing Modules (random, string)
 * String Manipulation
 * User Input Handling
 * Loops
@@ -24,8 +24,8 @@ This project helps beginners understand how Python's built-in libraries can be u
 ## Technologies Used
 
 * Python 3
-* `random` module
-* `string` module
+* random module
+* string module
 
 ## Sample Output
 
